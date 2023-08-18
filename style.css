@@ -162,12 +162,18 @@ b{
     width:40px;
     height:40px;
 }
+.search-icon:hover{
+    
+}
 .search-text{
     position: absolute;
-    left: 250px;
-    top: -7px;
+    left: 230px;
+    top: 2px;
     color:black;
     font-weight: lighter;
+    height: 34px;
+    width: 250px;
+    border-style: none;
 }
 .profile{
     width: 400px;
